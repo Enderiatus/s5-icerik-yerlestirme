@@ -32,7 +32,7 @@ export const siteContent = {
       "Her sektörün kendine özgü dinamikleri olduğunu biliyor, bu doğrultuda size özel pazarlama stratejileri geliştiriyoruz. Hedef kitlenizi analiz ediyor, rakip analizi yapıyor ve markanızın dijital dünyada öne çıkması için yaratıcı çözümler sunuyoruz. Uzun vadeli ortaklık anlayışımızla markanızın büyümesine katkı sağlıyoruz.",
   },
   contact: {
-    "contact-h4": "İletişim",
+    h4: "İletişim",
     address: "Maslak Mahallesi Büyükdere Cad. No:255 Sarıyer İstanbul, Türkiye",
     phone: "+90 (212) 789-4561",
     email: "info@dijitalpazarlamaajansı.com",
