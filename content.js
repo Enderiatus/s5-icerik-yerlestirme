@@ -10,6 +10,7 @@ export const siteContent = {
   cta: {
     h1: "Dijital Pazarlama Uzmanı",
     button: "Ücretsiz Analiz",
+    img: "./images/cta-img.webp",
   },
   "top-content": {
     "left-h4": "Çalışma Prensiplerimiz",
